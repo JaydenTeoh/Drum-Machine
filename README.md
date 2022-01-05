@@ -1,6 +1,6 @@
 # DrumMachine
 
-[Live Demo]()
+[Live Demo](https://react-drum-machine-jaydenteoh.netlify.app/)
 
 My first project built using React. Project idea from FreeCodeCamp. Audio clips from FreeCodeCamp.
 
